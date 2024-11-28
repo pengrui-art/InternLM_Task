@@ -31,3 +31,33 @@
 可见打开的浏览器web demo如下：
 
 ![img7.png](assets/img7.png)
+
+### ***Linux基础命令***
+
+1. touch/mkdir/cd/pwd
+
+![img8.png](assets/img8.png)
+
+2. cat
+
+![img9.png](assets/img9.png)
+
+3. vi or vim
+
+![img10.png](assets/img10.png)
+
+4. cp and ln
+
+![img11.png](assets/img11.png)
+
+![img12.png](assets/img12.png)
+
+5. mv and rm
+
+![img13.png](assets/img13.png)
+
+![img14.png](assets/img14.png)
+
+5. find
+
+![img15.png](assets/img15.png)
