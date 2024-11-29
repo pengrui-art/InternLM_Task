@@ -11,4 +11,5 @@
 
 ### 任务二
 Vscode连接InternStudio debug笔记
-![image](https://github.com/user-attachments/assets/1a467cf3-210b-40b8-a795-89744209bdfb)
+![image](https://github.com/user-attachments/assets/22b08402-a309-44b0-b6d7-7f903049cfe3)
+
